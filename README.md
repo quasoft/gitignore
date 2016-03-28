@@ -10,4 +10,5 @@ List of sample .gitignore files for different programming languages and framewor
 
 ##Languages:
 
-##License: [MIT](LICENSE)
+##License:
+[MIT](LICENSE)
