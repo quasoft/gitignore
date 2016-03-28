@@ -3,8 +3,11 @@ List of sample .gitignore files for different programming languages and framewor
 
 ##Frameworks:
 
-| #  |          Title           |                .gitignore                |
-|----|--------------------------|------------------------------------------|
-| 1. | Pelican Static Generator | [.gitignore-pelican](.gitignore-pelican) |
+| #  |          Title           |                .gitignore                                              |
+|----|--------------------------|------------------------------------------------------------------------|
+| 1. | Pelican Static Generator | [.gitignore-pelican](.gitignore-pelican)                               |
+| 2. | Visual Studio            |                                                                        |
 
 ##Languages:
+
+##License: [MIT](LICENSE)
