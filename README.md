@@ -7,6 +7,12 @@ List of sample .gitignore files for different programming languages and framewor
 |----|--------------------------|------------------------------------------------------------------------|
 | 1. | Visual Studio 2015       | [.gitignore-vs-2015](.gitignore-vs-2015)                               |
 
+##Languages:
+
+| #  |          Title           |                .gitignore                                              |
+|----|--------------------------|------------------------------------------------------------------------|
+| 1. | Python                   | [.gitignore-python](.gitignore-python)                                 |
+
 ##Frameworks:
 
 | #  |          Title           |                .gitignore                                              |
